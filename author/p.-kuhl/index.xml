@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P. Kühl | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/p.-kuhl/</link>
+      <atom:link href="http://ninadresing.github.io/author/p.-kuhl/index.xml" rel="self" type="application/rss+xml" />
+    <description>P. Kühl</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>P. Kühl</title>
+      <link>http://ninadresing.github.io/author/p.-kuhl/</link>
+    </image>
+    
+    <item>
+      <title>The Solar Electron and Proton Telescope Aboard STEREO – Understanding Proton Spectra</title>
+      <link>http://ninadresing.github.io/publication/wraase-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/wraase-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar Energetic Particle Events with Protons Above 500 MeV Between 1995 and 2015 Measured with SOHO/EPHIN</title>
+      <link>http://ninadresing.github.io/publication/kuhl-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/kuhl-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Galactic cosmic ray quiet time spectra from 300 MeV up to above 1 GeV measured with SOHO/EPHIN</title>
+      <link>http://ninadresing.github.io/publication/kuhl-2015-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/kuhl-2015-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proton energy spectra during ground level enhancements as measured by EPHIN aboard SOHO</title>
+      <link>http://ninadresing.github.io/publication/heber-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/heber-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proton intensity spectra during the solar energetic particle events of May 17, 2012 and January 6, 2014</title>
+      <link>http://ninadresing.github.io/publication/kuhl-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/kuhl-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum of galactic and Jovian electrons</title>
+      <link>http://ninadresing.github.io/publication/kuhl-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/kuhl-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first ground level event of solar cycle 24 and its longitudinal distribution in the inner heliosphere</title>
+      <link>http://ninadresing.github.io/publication/heber-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/heber-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

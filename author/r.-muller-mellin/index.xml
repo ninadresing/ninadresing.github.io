@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Müller-Mellin | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/r.-muller-mellin/</link>
+      <atom:link href="http://ninadresing.github.io/author/r.-muller-mellin/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Müller-Mellin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>R. Müller-Mellin</title>
+      <link>http://ninadresing.github.io/author/r.-muller-mellin/</link>
+    </image>
+    
+    <item>
+      <title>Interpretation of increased energetic particle flux measurements by SEPT aboard the STEREO spacecraft and contamination</title>
+      <link>http://ninadresing.github.io/publication/wraase-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/wraase-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Solar Electron and Proton Telescope Aboard STEREO – Understanding Proton Spectra</title>
+      <link>http://ninadresing.github.io/publication/wraase-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/wraase-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unexpected spatial intensity distributions and onset timing of solar electron events observed by closely spaced STEREO spacecraft</title>
+      <link>http://ninadresing.github.io/publication/klassen-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/klassen-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial and temporal variations of CIRs: Multi-point observations by STEREO</title>
+      <link>http://ninadresing.github.io/publication/gomez-herrero-2011551/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/gomez-herrero-2011551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The August 18, 2010 solar energetic particle event - Multipoint observations and propagation modeling</title>
+      <link>http://ninadresing.github.io/publication/gomez-herrero-2011204/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/gomez-herrero-2011204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-point observations of CIR-associated energetic particles during the 2008 solar minimum</title>
+      <link>http://ninadresing.github.io/publication/gomez-herrero-2010608/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/gomez-herrero-2010608/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-spacecraft observations of CIR-associated ion increases during the ulysses 2007 ecliptic crossing</title>
+      <link>http://ninadresing.github.io/publication/dresing-2009409/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/dresing-2009409/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Klecker | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/b.-klecker/</link>
+      <atom:link href="http://ninadresing.github.io/author/b.-klecker/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Klecker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>B. Klecker</title>
+      <link>http://ninadresing.github.io/author/b.-klecker/</link>
+    </image>
+    
+    <item>
+      <title>Multi-spacecraft observations during a series of three solar energetic particle events in May, 2009</title>
+      <link>http://ninadresing.github.io/publication/dresing-2011117/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/dresing-2011117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-spacecraft observations of solar energetic electron events during the rising phase of solar cycle 24</title>
+      <link>http://ninadresing.github.io/publication/droege-201188/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/droege-201188/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The August 18, 2010 solar energetic particle event - Multipoint observations and propagation modeling</title>
+      <link>http://ninadresing.github.io/publication/gomez-herrero-2011204/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/gomez-herrero-2011204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional anisotropic transport simulations: A parameter study for the interpretation of multi-spacecraft solar energetic particle observations</title>
+      <link>http://ninadresing.github.io/publication/kartavykh-2011196/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/kartavykh-2011196/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

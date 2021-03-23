@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Brüdern | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/m.-brudern/</link>
+      <atom:link href="http://ninadresing.github.io/author/m.-brudern/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Brüdern</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2020 00:00:00 +0300</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Brüdern</title>
+      <link>http://ninadresing.github.io/author/m.-brudern/</link>
+    </image>
+    
+    <item>
+      <title>On the shape of SEP electron spectra: The role of interplanetary transport</title>
+      <link>http://ninadresing.github.io/publication/strauss-2020/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0300</pubDate>
+      <guid>http://ninadresing.github.io/publication/strauss-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

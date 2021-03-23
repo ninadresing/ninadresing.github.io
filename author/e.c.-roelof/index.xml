@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E.C. Roelof | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/e.c.-roelof/</link>
+      <atom:link href="http://ninadresing.github.io/author/e.c.-roelof/index.xml" rel="self" type="application/rss+xml" />
+    <description>E.C. Roelof</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>E.C. Roelof</title>
+      <link>http://ninadresing.github.io/author/e.c.-roelof/</link>
+    </image>
+    
+    <item>
+      <title>Longitudinal and radial dependence of solar energetic particle peak intensities: Stereo, ace, soho, goes, and messenger observations</title>
+      <link>http://ninadresing.github.io/publication/lario-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/lario-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G.C. Ho | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/g.c.-ho/</link>
+      <atom:link href="http://ninadresing.github.io/author/g.c.-ho/index.xml" rel="self" type="application/rss+xml" />
+    <description>G.C. Ho</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>G.C. Ho</title>
+      <link>http://ninadresing.github.io/author/g.c.-ho/</link>
+    </image>
+    
+    <item>
+      <title>LONGITUDINAL PROPERTIES of A WIDESPREAD SOLAR ENERGETIC PARTICLE EVENT on 2014 February 25: EVOLUTION of the ASSOCIATED CME SHOCK</title>
+      <link>http://ninadresing.github.io/publication/lario-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/lario-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Longitudinal and radial dependence of solar energetic particle peak intensities: Stereo, ace, soho, goes, and messenger observations</title>
+      <link>http://ninadresing.github.io/publication/lario-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/lario-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

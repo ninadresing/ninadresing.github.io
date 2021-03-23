@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Effenberger | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/f.-effenberger/</link>
+      <atom:link href="http://ninadresing.github.io/author/f.-effenberger/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Effenberger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Effenberger</title>
+      <link>http://ninadresing.github.io/author/f.-effenberger/</link>
+    </image>
+    
+    <item>
+      <title>Statistical Results for Solar Energetic Electron Spectra Observed over 12 yr with STEREO/SEPT</title>
+      <link>http://ninadresing.github.io/publication/dresing-2019/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/dresing-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insights from the spectra of solar energetic electron events (SH22A-04)</title>
+      <link>http://ninadresing.github.io/talk/agu2019/</link>
+      <pubDate>Tue, 10 Dec 2019 11:08:00 -0800</pubDate>
+      <guid>http://ninadresing.github.io/talk/agu2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectrum of galactic and Jovian electrons</title>
+      <link>http://ninadresing.github.io/publication/kuhl-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/kuhl-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

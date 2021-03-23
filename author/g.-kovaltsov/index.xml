@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Kovaltsov | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/g.-kovaltsov/</link>
+      <atom:link href="http://ninadresing.github.io/author/g.-kovaltsov/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Kovaltsov</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Kovaltsov</title>
+      <link>http://ninadresing.github.io/author/g.-kovaltsov/</link>
+    </image>
+    
+    <item>
+      <title>Three-dimensional anisotropic transport simulations: A parameter study for the interpretation of multi-spacecraft solar energetic particle observations</title>
+      <link>http://ninadresing.github.io/publication/kartavykh-2011196/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/kartavykh-2011196/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

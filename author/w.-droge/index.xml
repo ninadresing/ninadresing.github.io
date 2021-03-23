@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W. Dröge | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/w.-droge/</link>
+      <atom:link href="http://ninadresing.github.io/author/w.-droge/index.xml" rel="self" type="application/rss+xml" />
+    <description>W. Dröge</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>W. Dröge</title>
+      <link>http://ninadresing.github.io/author/w.-droge/</link>
+    </image>
+    
+    <item>
+      <title>Multi-spacecraft observations and transport modeling of energetic electrons for a series of solar particle events in August 2010</title>
+      <link>http://ninadresing.github.io/publication/droge-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/droge-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-spacecraft observations and transport modeling of energetic electrons for a series of solar particle events in August 2010</title>
+      <link>http://ninadresing.github.io/publication/droge-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/droge-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical survey of widely spread out solar electron events observed with STEREO and ACE with special attention to anisotropies</title>
+      <link>http://ninadresing.github.io/publication/dresing-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/dresing-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A statistical analysis of wide-spread solar electron events observed with STEREO and close to Earth spacecraft</title>
+      <link>http://ninadresing.github.io/publication/dresing-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/dresing-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first ground level event of solar cycle 24 and its longitudinal distribution in the inner heliosphere</title>
+      <link>http://ninadresing.github.io/publication/heber-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/heber-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Large Longitudinal Spread of Solar Energetic Particles During the 17 January 2010 Solar Event</title>
+      <link>http://ninadresing.github.io/publication/dresing-2012281/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/dresing-2012281/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-spacecraft observations during a series of three solar energetic particle events in May, 2009</title>
+      <link>http://ninadresing.github.io/publication/dresing-2011117/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/dresing-2011117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The August 18, 2010 solar energetic particle event - Multipoint observations and propagation modeling</title>
+      <link>http://ninadresing.github.io/publication/gomez-herrero-2011204/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/gomez-herrero-2011204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional anisotropic transport simulations: A parameter study for the interpretation of multi-spacecraft solar energetic particle observations</title>
+      <link>http://ninadresing.github.io/publication/kartavykh-2011196/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/kartavykh-2011196/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

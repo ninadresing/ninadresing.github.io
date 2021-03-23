@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Papaioannou | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/a.-papaioannou/</link>
+      <atom:link href="http://ninadresing.github.io/author/a.-papaioannou/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Papaioannou</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Papaioannou</title>
+      <link>http://ninadresing.github.io/author/a.-papaioannou/</link>
+    </image>
+    
+    <item>
+      <title>Catalogue of &gt;55 MeV Wide-longitude Solar Proton Events Observed by SOHO, ACE, and the STEREOs at ≈1 AU During 2009 – 2016</title>
+      <link>http://ninadresing.github.io/publication/paassilta-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/paassilta-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LONGITUDINAL PROPERTIES of A WIDESPREAD SOLAR ENERGETIC PARTICLE EVENT on 2014 February 25: EVOLUTION of the ASSOCIATED CME SHOCK</title>
+      <link>http://ninadresing.github.io/publication/lario-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/lario-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEPServer catalogues of solar energetic particle events at 1 AU based on STEREO recordings: 2007-2012</title>
+      <link>http://ninadresing.github.io/publication/papaioannou-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/papaioannou-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

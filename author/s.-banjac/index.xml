@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Banjac | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/s.-banjac/</link>
+      <atom:link href="http://ninadresing.github.io/author/s.-banjac/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Banjac</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Banjac</title>
+      <link>http://ninadresing.github.io/author/s.-banjac/</link>
+    </image>
+    
+    <item>
+      <title>Circumsolar energetic particle distribution on 2011 November 3</title>
+      <link>http://ninadresing.github.io/publication/gomez-herrero-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/gomez-herrero-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proton intensity spectra during the solar energetic particle events of May 17, 2012 and January 6, 2014</title>
+      <link>http://ninadresing.github.io/publication/kuhl-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/kuhl-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

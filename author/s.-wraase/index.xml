@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Wraase | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/s.-wraase/</link>
+      <atom:link href="http://ninadresing.github.io/author/s.-wraase/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Wraase</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Wraase</title>
+      <link>http://ninadresing.github.io/author/s.-wraase/</link>
+    </image>
+    
+    <item>
+      <title>Interpretation of increased energetic particle flux measurements by SEPT aboard the STEREO spacecraft and contamination</title>
+      <link>http://ninadresing.github.io/publication/wraase-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/wraase-2018-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Solar Electron and Proton Telescope Aboard STEREO – Understanding Proton Spectra</title>
+      <link>http://ninadresing.github.io/publication/wraase-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/wraase-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Richardson | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/i.-richardson/</link>
+      <atom:link href="http://ninadresing.github.io/author/i.-richardson/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Richardson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>I. Richardson</title>
+      <link>http://ninadresing.github.io/author/i.-richardson/</link>
+    </image>
+    
+    <item>
+      <title>Statistical Results for Solar Energetic Electron Spectra Observed over 12 yr with STEREO/SEPT</title>
+      <link>http://ninadresing.github.io/publication/dresing-2019/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/dresing-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

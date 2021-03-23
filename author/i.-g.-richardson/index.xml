@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. G. Richardson | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/i.-g.-richardson/</link>
+      <atom:link href="http://ninadresing.github.io/author/i.-g.-richardson/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. G. Richardson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2019 11:08:00 -0800</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>I. G. Richardson</title>
+      <link>http://ninadresing.github.io/author/i.-g.-richardson/</link>
+    </image>
+    
+    <item>
+      <title>Insights from the spectra of solar energetic electron events (SH22A-04)</title>
+      <link>http://ninadresing.github.io/talk/agu2019/</link>
+      <pubDate>Tue, 10 Dec 2019 11:08:00 -0800</pubDate>
+      <guid>http://ninadresing.github.io/talk/agu2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

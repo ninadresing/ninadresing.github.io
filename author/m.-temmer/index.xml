@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Temmer | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/m.-temmer/</link>
+      <atom:link href="http://ninadresing.github.io/author/m.-temmer/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Temmer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Temmer</title>
+      <link>http://ninadresing.github.io/author/m.-temmer/</link>
+    </image>
+    
+    <item>
+      <title>Long-lasting injection of solar energetic electrons into the heliosphere</title>
+      <link>http://ninadresing.github.io/publication/dresing-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/dresing-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunward-propagating Solar Energetic Electrons inside Multiple Interplanetary Flux Ropes</title>
+      <link>http://ninadresing.github.io/publication/gomez-herrero-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/gomez-herrero-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Injection of solar energetic particles into both loop legs of a magnetic cloud</title>
+      <link>http://ninadresing.github.io/publication/dresing-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/dresing-2016-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

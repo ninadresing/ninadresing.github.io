@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.A. Hidalgo | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/m.a.-hidalgo/</link>
+      <atom:link href="http://ninadresing.github.io/author/m.a.-hidalgo/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.A. Hidalgo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>M.A. Hidalgo</title>
+      <link>http://ninadresing.github.io/author/m.a.-hidalgo/</link>
+    </image>
+    
+    <item>
+      <title>Sunward-propagating Solar Energetic Electrons inside Multiple Interplanetary Flux Ropes</title>
+      <link>http://ninadresing.github.io/publication/gomez-herrero-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/gomez-herrero-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Injection of solar energetic particles into both loop legs of a magnetic cloud</title>
+      <link>http://ninadresing.github.io/publication/dresing-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/dresing-2016-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis and study of the in situ observation of the June 1st 2008 CME by STEREO</title>
+      <link>http://ninadresing.github.io/publication/nieves-chinchilla-20111348/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/nieves-chinchilla-20111348/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

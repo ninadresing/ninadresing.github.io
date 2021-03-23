@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. Kilpua | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/e.-kilpua/</link>
+      <atom:link href="http://ninadresing.github.io/author/e.-kilpua/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Kilpua</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>E. Kilpua</title>
+      <link>http://ninadresing.github.io/author/e.-kilpua/</link>
+    </image>
+    
+    <item>
+      <title>Spatial and temporal variations of CIRs: Multi-point observations by STEREO</title>
+      <link>http://ninadresing.github.io/publication/gomez-herrero-2011551/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/gomez-herrero-2011551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-point observations of CIR-associated energetic particles during the 2008 solar minimum</title>
+      <link>http://ninadresing.github.io/publication/gomez-herrero-2010608/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/gomez-herrero-2010608/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

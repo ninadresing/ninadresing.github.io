@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K.-L. Klein | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/k.-l.-klein/</link>
+      <atom:link href="http://ninadresing.github.io/author/k.-l.-klein/index.xml" rel="self" type="application/rss+xml" />
+    <description>K.-L. Klein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>K.-L. Klein</title>
+      <link>http://ninadresing.github.io/author/k.-l.-klein/</link>
+    </image>
+    
+    <item>
+      <title>Comprehensive Characterization of Solar Eruptions With Remote and In-Situ Observations, and Modeling: The Major Solar Events on 4 November 2015</title>
+      <link>http://ninadresing.github.io/publication/cairns-2019/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/cairns-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEPServer catalogues of solar energetic particle events at 1 AU based on STEREO recordings: 2007-2012</title>
+      <link>http://ninadresing.github.io/publication/papaioannou-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/papaioannou-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
