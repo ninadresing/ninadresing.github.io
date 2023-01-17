@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R.-Y. Kwon | Nina Dresing</title>
+    <title>R. Y. Kwon | Nina Dresing</title>
     <link>http://ninadresing.github.io/author/r.-y.-kwon/</link>
       <atom:link href="http://ninadresing.github.io/author/r.-y.-kwon/index.xml" rel="self" type="application/rss+xml" />
-    <description>R.-Y. Kwon</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0200</lastBuildDate>
+    <description>R. Y. Kwon</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
-      <title>R.-Y. Kwon</title>
+      <title>R. Y. Kwon</title>
       <link>http://ninadresing.github.io/author/r.-y.-kwon/</link>
     </image>
+    
+    <item>
+      <title>Influence of Large-scale Interplanetary Structures on the Propagation of Solar Energetic Particles: The Multispacecraft Event on 2021 October 9</title>
+      <link>http://ninadresing.github.io/publication/2022-ap-j-934-55-l/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-ap-j-934-55-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first widespread solar energetic particle event of solar cycle 25 on 2020 November 29. Shock wave properties and the wide distribution of solar energetic particles</title>
+      <link>http://ninadresing.github.io/publication/2022-aa-660-a-84-k/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-aa-660-a-84-k/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LONGITUDINAL PROPERTIES of A WIDESPREAD SOLAR ENERGETIC PARTICLE EVENT on 2014 February 25: EVOLUTION of the ASSOCIATED CME SHOCK</title>

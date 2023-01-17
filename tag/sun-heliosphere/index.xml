@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sun: heliosphere | Nina Dresing</title>
+    <link>http://ninadresing.github.io/tag/sun-heliosphere/</link>
+      <atom:link href="http://ninadresing.github.io/tag/sun-heliosphere/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sun: heliosphere</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>Sun: heliosphere</title>
+      <link>http://ninadresing.github.io/tag/sun-heliosphere/</link>
+    </image>
+    
+    <item>
+      <title>A new method to determine solar energetic particle anisotropies and their associated uncertainties demonstrated for STEREO/SEPT</title>
+      <link>http://ninadresing.github.io/publication/2022-aa-663-a-89-b/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-aa-663-a-89-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First year of energetic particle measurements in the inner heliosphere with Solar Orbiter&#39;s Energetic Particle Detector</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-22-w/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-22-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-spacecraft observations of the structure of the sheath of an interplanetary coronal mass ejection and related energetic ion enhancement</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-8-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-8-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first widespread solar energetic particle event observed by Solar Orbiter on 2020 November 29</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting solar flare hard X-ray spectra to in situ electron spectra. A comparison of RHESSI and STEREO/SEPT observations</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-654-a-92-d/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-654-a-92-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The unusual widespread solar energetic particle event on 2013 August 19. Solar origin and particle longitudinal distribution</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-653-a-137-r/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-653-a-137-r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

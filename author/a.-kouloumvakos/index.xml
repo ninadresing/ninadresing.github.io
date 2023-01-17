@@ -5,12 +5,28 @@
     <link>http://ninadresing.github.io/author/a.-kouloumvakos/</link>
       <atom:link href="http://ninadresing.github.io/author/a.-kouloumvakos/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Kouloumvakos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
       <title>A. Kouloumvakos</title>
       <link>http://ninadresing.github.io/author/a.-kouloumvakos/</link>
     </image>
+    
+    <item>
+      <title>The first widespread solar energetic particle event of solar cycle 25 on 2020 November 29. Shock wave properties and the wide distribution of solar energetic particles</title>
+      <link>http://ninadresing.github.io/publication/2022-aa-660-a-84-k/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-aa-660-a-84-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first widespread solar energetic particle event observed by Solar Orbiter on 2020 November 29</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SEPServer catalogues of solar energetic particle events at 1 AU based on STEREO recordings: 2007-2012</title>

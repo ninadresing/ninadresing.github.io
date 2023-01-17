@@ -5,12 +5,44 @@
     <link>http://ninadresing.github.io/author/m.-brudern/</link>
       <atom:link href="http://ninadresing.github.io/author/m.-brudern/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Brüdern</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2020 00:00:00 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
       <title>M. Brüdern</title>
       <link>http://ninadresing.github.io/author/m.-brudern/</link>
     </image>
+    
+    <item>
+      <title>A new method to determine solar energetic particle anisotropies and their associated uncertainties demonstrated for STEREO/SEPT</title>
+      <link>http://ninadresing.github.io/publication/2022-aa-663-a-89-b/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-aa-663-a-89-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Large-scale Interplanetary Structures on the Propagation of Solar Energetic Particles: The Multispacecraft Event on 2021 October 9</title>
+      <link>http://ninadresing.github.io/publication/2022-ap-j-934-55-l/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-ap-j-934-55-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first widespread solar energetic particle event observed by Solar Orbiter on 2020 November 29</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting solar flare hard X-ray spectra to in situ electron spectra. A comparison of RHESSI and STEREO/SEPT observations</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-654-a-92-d/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-654-a-92-d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the shape of SEP electron spectra: The role of interplanetary transport</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Bruce Andrews | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/g.-bruce-andrews/</link>
+      <atom:link href="http://ninadresing.github.io/author/g.-bruce-andrews/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Bruce Andrews</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Bruce Andrews</title>
+      <link>http://ninadresing.github.io/author/g.-bruce-andrews/</link>
+    </image>
+    
+    <item>
+      <title>The first widespread solar energetic particle event observed by Solar Orbiter on 2020 November 29</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

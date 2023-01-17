@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>K.-L. Klein | Nina Dresing</title>
+    <title>K. -L. Klein | Nina Dresing</title>
     <link>http://ninadresing.github.io/author/k.-l.-klein/</link>
       <atom:link href="http://ninadresing.github.io/author/k.-l.-klein/index.xml" rel="self" type="application/rss+xml" />
-    <description>K.-L. Klein</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0200</lastBuildDate>
+    <description>K. -L. Klein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
-      <title>K.-L. Klein</title>
+      <title>K. -L. Klein</title>
       <link>http://ninadresing.github.io/author/k.-l.-klein/</link>
     </image>
+    
+    <item>
+      <title>First near-relativistic solar electron events observed by EPD onboard Solar Orbiter</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-l-3-g/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-l-3-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first widespread solar energetic particle event observed by Solar Orbiter on 2020 November 29</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting solar flare hard X-ray spectra to in situ electron spectra. A comparison of RHESSI and STEREO/SEPT observations</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-654-a-92-d/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-654-a-92-d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comprehensive Characterization of Solar Eruptions With Remote and In-Situ Observations, and Modeling: The Major Solar Events on 4 November 2015</title>

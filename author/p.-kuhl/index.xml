@@ -5,12 +5,36 @@
     <link>http://ninadresing.github.io/author/p.-kuhl/</link>
       <atom:link href="http://ninadresing.github.io/author/p.-kuhl/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Kühl</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
       <title>P. Kühl</title>
       <link>http://ninadresing.github.io/author/p.-kuhl/</link>
     </image>
+    
+    <item>
+      <title>A new method to determine solar energetic particle anisotropies and their associated uncertainties demonstrated for STEREO/SEPT</title>
+      <link>http://ninadresing.github.io/publication/2022-aa-663-a-89-b/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-aa-663-a-89-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First year of energetic particle measurements in the inner heliosphere with Solar Orbiter&#39;s Energetic Particle Detector</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-22-w/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-22-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The long period of $^3$He-rich solar energetic particles measured by Solar Orbiter 2020 November 17-23</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-l-11-b/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-l-11-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Solar Electron and Proton Telescope Aboard STEREO – Understanding Proton Spectra</title>

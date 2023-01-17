@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1491 | Nina Dresing</title>
+    <link>http://ninadresing.github.io/tag/1491/</link>
+      <atom:link href="http://ninadresing.github.io/tag/1491/index.xml" rel="self" type="application/rss+xml" />
+    <description>1491</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>1491</title>
+      <link>http://ninadresing.github.io/tag/1491/</link>
+    </image>
+    
+    <item>
+      <title>Tracking a Beam of Electrons from the Low Solar Corona into Interplanetary Space with the Low Frequency Array, Parker Solar Probe, and 1 au Spacecraft</title>
+      <link>http://ninadresing.github.io/publication/2022-ap-j-938-95-b/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-ap-j-938-95-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Large-scale Interplanetary Structures on the Propagation of Solar Energetic Particles: The Multispacecraft Event on 2021 October 9</title>
+      <link>http://ninadresing.github.io/publication/2022-ap-j-934-55-l/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-ap-j-934-55-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Role of Coronal Shocks for Accelerating Solar Energetic Electrons</title>
+      <link>http://ninadresing.github.io/publication/2022-ap-j-925-l-21-d/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-ap-j-925-l-21-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Solar Energetic Particles Measured on the Lunar Far-side</title>
+      <link>http://ninadresing.github.io/publication/2020-ap-j-902-l-30-x/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2020-ap-j-902-l-30-x/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

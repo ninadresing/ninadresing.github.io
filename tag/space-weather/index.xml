@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space weather | Nina Dresing</title>
+    <link>http://ninadresing.github.io/tag/space-weather/</link>
+      <atom:link href="http://ninadresing.github.io/tag/space-weather/index.xml" rel="self" type="application/rss+xml" />
+    <description>Space weather</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>Space weather</title>
+      <link>http://ninadresing.github.io/tag/space-weather/</link>
+    </image>
+    
+    <item>
+      <title>Earth-affecting solar transients: a review of progresses in solar cycle 24</title>
+      <link>http://ninadresing.github.io/publication/2021-peps-8-56-z/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-peps-8-56-z/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Solar Energetic Particles Measured on the Lunar Far-side</title>
+      <link>http://ninadresing.github.io/publication/2020-ap-j-902-l-30-x/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2020-ap-j-902-l-30-x/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zigong Xu | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/zigong-xu/</link>
+      <atom:link href="http://ninadresing.github.io/author/zigong-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zigong Xu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>Zigong Xu</title>
+      <link>http://ninadresing.github.io/author/zigong-xu/</link>
+    </image>
+    
+    <item>
+      <title>First Solar Energetic Particles Measured on the Lunar Far-side</title>
+      <link>http://ninadresing.github.io/publication/2020-ap-j-902-l-30-x/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2020-ap-j-902-l-30-x/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

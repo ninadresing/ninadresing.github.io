@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N. V. Nitta | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/n.-v.-nitta/</link>
+      <atom:link href="http://ninadresing.github.io/author/n.-v.-nitta/index.xml" rel="self" type="application/rss+xml" />
+    <description>N. V. Nitta</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>N. V. Nitta</title>
+      <link>http://ninadresing.github.io/author/n.-v.-nitta/</link>
+    </image>
+    
+    <item>
+      <title>The long period of $^3$He-rich solar energetic particles measured by Solar Orbiter 2020 November 17-23</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-l-11-b/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-l-11-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The unusual widespread solar energetic particle event on 2013 August 19. Solar origin and particle longitudinal distribution</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-653-a-137-r/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-653-a-137-r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

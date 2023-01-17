@@ -5,12 +5,156 @@
     <link>http://ninadresing.github.io/</link>
       <atom:link href="http://ninadresing.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Nina Dresing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2020 00:00:00 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
       <title>Nina Dresing</title>
       <link>http://ninadresing.github.io/</link>
     </image>
+    
+    <item>
+      <title>Multiple injections of energetic electrons associated with the flare/CME event on 9 October 2021</title>
+      <link>http://ninadresing.github.io/publication/2023-ar-xiv-230103650-j/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-ar-xiv-230103650-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Role of Interplanetary Shocks in Accelerating MeV Electrons</title>
+      <link>http://ninadresing.github.io/publication/2023-ar-xiv-230105587-t/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-ar-xiv-230105587-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar energetic particle time series analysis with Python</title>
+      <link>http://ninadresing.github.io/publication/2022-fr-ass-973578-p/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-fr-ass-973578-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking a Beam of Electrons from the Low Solar Corona into Interplanetary Space with the Low Frequency Array, Parker Solar Probe, and 1 au Spacecraft</title>
+      <link>http://ninadresing.github.io/publication/2022-ap-j-938-95-b/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-ap-j-938-95-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new method to determine solar energetic particle anisotropies and their associated uncertainties demonstrated for STEREO/SEPT</title>
+      <link>http://ninadresing.github.io/publication/2022-aa-663-a-89-b/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-aa-663-a-89-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of Large-scale Interplanetary Structures on the Propagation of Solar Energetic Particles: The Multispacecraft Event on 2021 October 9</title>
+      <link>http://ninadresing.github.io/publication/2022-ap-j-934-55-l/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-ap-j-934-55-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The relativistic solar particle event on 28 October 2021: Evidence of particle acceleration within and escape from the solar corona</title>
+      <link>http://ninadresing.github.io/publication/2022-aa-663-a-173-k/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-aa-663-a-173-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first widespread solar energetic particle event of solar cycle 25 on 2020 November 29. Shock wave properties and the wide distribution of solar energetic particles</title>
+      <link>http://ninadresing.github.io/publication/2022-aa-660-a-84-k/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-aa-660-a-84-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Role of Coronal Shocks for Accelerating Solar Energetic Electrons</title>
+      <link>http://ninadresing.github.io/publication/2022-ap-j-925-l-21-d/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-ap-j-925-l-21-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earth-affecting solar transients: a review of progresses in solar cycle 24</title>
+      <link>http://ninadresing.github.io/publication/2021-peps-8-56-z/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-peps-8-56-z/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First near-relativistic solar electron events observed by EPD onboard Solar Orbiter</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-l-3-g/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-l-3-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First year of energetic particle measurements in the inner heliosphere with Solar Orbiter&#39;s Energetic Particle Detector</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-22-w/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-22-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-spacecraft observations of the structure of the sheath of an interplanetary coronal mass ejection and related energetic ion enhancement</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-8-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-8-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The first widespread solar energetic particle event observed by Solar Orbiter on 2020 November 29</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-20-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The long period of $^3$He-rich solar energetic particles measured by Solar Orbiter 2020 November 17-23</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-l-11-b/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-l-11-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting solar flare hard X-ray spectra to in situ electron spectra. A comparison of RHESSI and STEREO/SEPT observations</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-654-a-92-d/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-654-a-92-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The unusual widespread solar energetic particle event on 2013 August 19. Solar origin and particle longitudinal distribution</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-653-a-137-r/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-653-a-137-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Solar Energetic Particles Measured on the Lunar Far-side</title>
+      <link>http://ninadresing.github.io/publication/2020-ap-j-902-l-30-x/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2020-ap-j-902-l-30-x/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the shape of SEP electron spectra: The role of interplanetary transport</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. W. Good | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/s.-w.-good/</link>
+      <atom:link href="http://ninadresing.github.io/author/s.-w.-good/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. W. Good</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>S. W. Good</title>
+      <link>http://ninadresing.github.io/author/s.-w.-good/</link>
+    </image>
+    
+    <item>
+      <title>Multi-spacecraft observations of the structure of the sheath of an interplanetary coronal mass ejection and related energetic ion enhancement</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-8-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-8-k/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

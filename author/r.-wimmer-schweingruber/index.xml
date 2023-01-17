@@ -5,12 +5,28 @@
     <link>http://ninadresing.github.io/author/r.-wimmer-schweingruber/</link>
       <atom:link href="http://ninadresing.github.io/author/r.-wimmer-schweingruber/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Wimmer-Schweingruber</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
       <title>R. Wimmer-Schweingruber</title>
       <link>http://ninadresing.github.io/author/r.-wimmer-schweingruber/</link>
     </image>
+    
+    <item>
+      <title>A new method to determine solar energetic particle anisotropies and their associated uncertainties demonstrated for STEREO/SEPT</title>
+      <link>http://ninadresing.github.io/publication/2022-aa-663-a-89-b/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-aa-663-a-89-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-spacecraft observations of the structure of the sheath of an interplanetary coronal mass ejection and related energetic ion enhancement</title>
+      <link>http://ninadresing.github.io/publication/2021-aa-656-a-8-k/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2021-aa-656-a-8-k/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-spacecraft observations of CIR-associated ion increases during the ulysses 2007 ecliptic crossing</title>

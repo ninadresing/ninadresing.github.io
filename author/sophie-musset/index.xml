@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophie Musset | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/sophie-musset/</link>
+      <atom:link href="http://ninadresing.github.io/author/sophie-musset/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sophie Musset</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>Sophie Musset</title>
+      <link>http://ninadresing.github.io/author/sophie-musset/</link>
+    </image>
+    
+    <item>
+      <title>The relativistic solar particle event on 28 October 2021: Evidence of particle acceleration within and escape from the solar corona</title>
+      <link>http://ninadresing.github.io/publication/2022-aa-663-a-173-k/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-aa-663-a-173-k/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Sánchez-Cano | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/b.-sanchez-cano/</link>
+      <atom:link href="http://ninadresing.github.io/author/b.-sanchez-cano/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Sánchez-Cano</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <title>B. Sánchez-Cano</title>
+      <link>http://ninadresing.github.io/author/b.-sanchez-cano/</link>
+    </image>
+    
+    <item>
+      <title>Influence of Large-scale Interplanetary Structures on the Propagation of Solar Energetic Particles: The Multispacecraft Event on 2021 October 9</title>
+      <link>http://ninadresing.github.io/publication/2022-ap-j-934-55-l/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-ap-j-934-55-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
