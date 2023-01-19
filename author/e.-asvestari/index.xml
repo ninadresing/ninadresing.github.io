@@ -5,12 +5,20 @@
     <link>http://ninadresing.github.io/author/e.-asvestari/</link>
       <atom:link href="http://ninadresing.github.io/author/e.-asvestari/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Asvestari</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0200</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
       <title>E. Asvestari</title>
       <link>http://ninadresing.github.io/author/e.-asvestari/</link>
     </image>
+    
+    <item>
+      <title>The 17 April 2021 widespread solar energetic particle event</title>
+      <link>http://ninadresing.github.io/publication/apr17/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0200</pubDate>
+      <guid>http://ninadresing.github.io/publication/apr17/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-spacecraft observations of the structure of the sheath of an interplanetary coronal mass ejection and related energetic ion enhancement</title>
