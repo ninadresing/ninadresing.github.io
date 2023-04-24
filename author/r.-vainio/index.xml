@@ -5,9 +5,9 @@
     <link>http://ninadresing.github.io/author/r.-vainio/</link>
       <atom:link href="http://ninadresing.github.io/author/r.-vainio/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Vainio</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_2.png</url>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_3.png</url>
       <title>R. Vainio</title>
       <link>http://ninadresing.github.io/author/r.-vainio/</link>
     </image>
@@ -15,7 +15,7 @@
     <item>
       <title>The 17 April 2021 widespread solar energetic particle event</title>
       <link>http://ninadresing.github.io/publication/apr17/</link>
-      <pubDate>Wed, 18 Jan 2023 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://ninadresing.github.io/publication/apr17/</guid>
       <description></description>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>Catalogue of &gt;55 MeV Wide-longitude Solar Proton Events Observed by SOHO, ACE, and the STEREOs at ≈1 AU During 2009 – 2016</title>
       <link>http://ninadresing.github.io/publication/paassilta-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>http://ninadresing.github.io/publication/paassilta-2018/</guid>
       <description></description>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>SEPServer catalogues of solar energetic particle events at 1 AU based on STEREO recordings: 2007-2012</title>
       <link>http://ninadresing.github.io/publication/papaioannou-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>http://ninadresing.github.io/publication/papaioannou-2014/</guid>
       <description></description>
     </item>
