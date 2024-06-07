@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interplanetary magnetic fields | Nina Dresing</title>
+    <link>http://ninadresing.github.io/tag/interplanetary-magnetic-fields/</link>
+      <atom:link href="http://ninadresing.github.io/tag/interplanetary-magnetic-fields/index.xml" rel="self" type="application/rss+xml" />
+    <description>Interplanetary magnetic fields</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_3.png</url>
+      <title>Interplanetary magnetic fields</title>
+      <link>http://ninadresing.github.io/tag/interplanetary-magnetic-fields/</link>
+    </image>
+    
+    <item>
+      <title>On the Mesoscale Structure of Coronal Mass Ejections at Mercury&#39;s Orbit: BepiColombo and Parker Solar Probe Observations</title>
+      <link>http://ninadresing.github.io/publication/2024-ap-j-963-108-p/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2024-ap-j-963-108-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

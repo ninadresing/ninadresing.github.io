@@ -5,12 +5,20 @@
     <link>http://ninadresing.github.io/author/j.-pomoell/</link>
       <atom:link href="http://ninadresing.github.io/author/j.-pomoell/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Pomoell</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_3.png</url>
       <title>J. Pomoell</title>
       <link>http://ninadresing.github.io/author/j.-pomoell/</link>
     </image>
+    
+    <item>
+      <title>Connecting remote and in situ observations of shock-accelerated electrons associated with a coronal mass ejection</title>
+      <link>http://ninadresing.github.io/publication/morosan-2024/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/morosan-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-spacecraft observations of the structure of the sheath of an interplanetary coronal mass ejection and related energetic ion enhancement</title>

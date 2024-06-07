@@ -5,12 +5,52 @@
     <link>http://ninadresing.github.io/author/r.-vainio/</link>
       <atom:link href="http://ninadresing.github.io/author/r.-vainio/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Vainio</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_3.png</url>
       <title>R. Vainio</title>
       <link>http://ninadresing.github.io/author/r.-vainio/</link>
     </image>
+    
+    <item>
+      <title>Connecting remote and in situ observations of shock-accelerated electrons associated with a coronal mass ejection</title>
+      <link>http://ninadresing.github.io/publication/morosan-2024/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/morosan-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relativistic electron beams accelerated by an interplanetary shock</title>
+      <link>http://ninadresing.github.io/publication/jebaraj-2023b/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/jebaraj-2023b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-consistent modeling of the energetic storm particle event of November 10, 2012</title>
+      <link>http://ninadresing.github.io/publication/2023-aa-679-a-111-a/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-aa-679-a-111-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional modelling of the shock-turbulence interaction</title>
+      <link>http://ninadresing.github.io/publication/2023-mnras-525-1856-t/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-mnras-525-1856-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple injections of energetic electrons associated with the flare and CME event on 9 October 2021</title>
+      <link>http://ninadresing.github.io/publication/jebaraj-2023/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/jebaraj-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-spacecraft observations of shocklets at an interplanetary shock</title>
@@ -41,6 +81,14 @@
       <link>http://ninadresing.github.io/publication/2023-ar-xiv-230105587-t/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://ninadresing.github.io/publication/2023-ar-xiv-230105587-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-spacecraft techniques for shock parameters estimation: A systematic approach</title>
+      <link>http://ninadresing.github.io/publication/2022-fr-ass-905672-t/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-fr-ass-905672-t/</guid>
       <description></description>
     </item>
     

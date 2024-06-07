@@ -5,12 +5,100 @@
     <link>http://ninadresing.github.io/author/n.-dresing/</link>
       <atom:link href="http://ninadresing.github.io/author/n.-dresing/index.xml" rel="self" type="application/rss+xml" />
     <description>N. Dresing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_3.png</url>
       <title>N. Dresing</title>
       <link>http://ninadresing.github.io/author/n.-dresing/</link>
     </image>
+    
+    <item>
+      <title>Connecting remote and in situ observations of shock-accelerated electrons associated with a coronal mass ejection</title>
+      <link>http://ninadresing.github.io/publication/morosan-2024/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/morosan-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multispacecraft Observations of a Widespread Solar Energetic Particle Event on 2022 February 15–16</title>
+      <link>http://ninadresing.github.io/publication/2024-ap-j-963-107-k/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2024-ap-j-963-107-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jovian Electrons in the Inner Heliosphere: Opportunities for Multi-spacecraft Observations and Modeling</title>
+      <link>http://ninadresing.github.io/publication/2024-ap-j-961-57-s/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2024-ap-j-961-57-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relativistic electron beams accelerated by an interplanetary shock</title>
+      <link>http://ninadresing.github.io/publication/jebaraj-2023b/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/jebaraj-2023b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-consistent modeling of the energetic storm particle event of November 10, 2012</title>
+      <link>http://ninadresing.github.io/publication/2023-aa-679-a-111-a/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-aa-679-a-111-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional modelling of the shock-turbulence interaction</title>
+      <link>http://ninadresing.github.io/publication/2023-mnras-525-1856-t/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-mnras-525-1856-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anisotropies of solar energetic electrons in the MeV range measured with Solar Orbiter/EPD/HET</title>
+      <link>http://ninadresing.github.io/publication/2023-aa-676-a-58-f/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-aa-676-a-58-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-spacecraft observations of near-relativistic electron events at different radial distances</title>
+      <link>http://ninadresing.github.io/publication/2023-aa-675-a-155-k/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-aa-675-a-155-k/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Onset Delays of Solar Energetic Electrons and Protons: Evidence for a Common Accelerator</title>
+      <link>http://ninadresing.github.io/publication/2023-ap-j-951-2-s/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-ap-j-951-2-s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solar activity relations in energetic electron events measured by the MESSENGER mission</title>
+      <link>http://ninadresing.github.io/publication/2023-aa-674-a-145-r/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-aa-674-a-145-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple injections of energetic electrons associated with the flare and CME event on 9 October 2021</title>
+      <link>http://ninadresing.github.io/publication/jebaraj-2023/</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/jebaraj-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-spacecraft observations of shocklets at an interplanetary shock</title>
@@ -29,6 +117,14 @@
     </item>
     
     <item>
+      <title>Solar energetic electron events measured by MESSENGER and Solar Orbiter. Peak intensity and energy spectrum radial dependences: Statistical analysis</title>
+      <link>http://ninadresing.github.io/publication/2023-aa-670-a-51-r/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-aa-670-a-51-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The 17 April 2021 widespread solar energetic particle event</title>
       <link>http://ninadresing.github.io/publication/apr17/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
@@ -41,6 +137,22 @@
       <link>http://ninadresing.github.io/publication/2023-ar-xiv-230105587-t/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://ninadresing.github.io/publication/2023-ar-xiv-230105587-t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observations of a Solar Energetic Particle Event From Inside and Outside the Coma of Comet 67P</title>
+      <link>http://ninadresing.github.io/publication/2022-jgra-12730398-w/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-jgra-12730398-w/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-spacecraft techniques for shock parameters estimation: A systematic approach</title>
+      <link>http://ninadresing.github.io/publication/2022-fr-ass-905672-t/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-fr-ass-905672-t/</guid>
       <description></description>
     </item>
     

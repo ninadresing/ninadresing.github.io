@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. J. McComas | Nina Dresing</title>
+    <link>http://ninadresing.github.io/author/d.-j.-mccomas/</link>
+      <atom:link href="http://ninadresing.github.io/author/d.-j.-mccomas/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. J. McComas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_3.png</url>
+      <title>D. J. McComas</title>
+      <link>http://ninadresing.github.io/author/d.-j.-mccomas/</link>
+    </image>
+    
+    <item>
+      <title>Multispacecraft Observations of a Widespread Solar Energetic Particle Event on 2022 February 15–16</title>
+      <link>http://ninadresing.github.io/publication/2024-ap-j-963-107-k/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2024-ap-j-963-107-k/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

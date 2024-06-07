@@ -5,12 +5,36 @@
     <link>http://ninadresing.github.io/author/d.-trotta/</link>
       <atom:link href="http://ninadresing.github.io/author/d.-trotta/index.xml" rel="self" type="application/rss+xml" />
     <description>D. Trotta</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://ninadresing.github.io/media/icon_hud91f29cb6ad5efec82822218554a120e_29164_512x512_fill_lanczos_center_3.png</url>
       <title>D. Trotta</title>
       <link>http://ninadresing.github.io/author/d.-trotta/</link>
     </image>
+    
+    <item>
+      <title>Relativistic electron beams accelerated by an interplanetary shock</title>
+      <link>http://ninadresing.github.io/publication/jebaraj-2023b/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/jebaraj-2023b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-consistent modeling of the energetic storm particle event of November 10, 2012</title>
+      <link>http://ninadresing.github.io/publication/2023-aa-679-a-111-a/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-aa-679-a-111-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional modelling of the shock-turbulence interaction</title>
+      <link>http://ninadresing.github.io/publication/2023-mnras-525-1856-t/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2023-mnras-525-1856-t/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-spacecraft observations of shocklets at an interplanetary shock</title>
@@ -33,6 +57,14 @@
       <link>http://ninadresing.github.io/publication/apr17/</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://ninadresing.github.io/publication/apr17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-spacecraft techniques for shock parameters estimation: A systematic approach</title>
+      <link>http://ninadresing.github.io/publication/2022-fr-ass-905672-t/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://ninadresing.github.io/publication/2022-fr-ass-905672-t/</guid>
       <description></description>
     </item>
     
