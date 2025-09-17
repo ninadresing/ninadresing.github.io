@@ -133,22 +133,6 @@
     </item>
     
     <item>
-      <title>Solar Energetic Particle Events with Protons Above 500 MeV Between 1995 and 2015 Measured with SOHO/EPHIN</title>
-      <link>http://ninadresing.github.io/publication/kuhl-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://ninadresing.github.io/publication/kuhl-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sunward-propagating Solar Energetic Electrons inside Multiple Interplanetary Flux Ropes</title>
-      <link>http://ninadresing.github.io/publication/gomez-herrero-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://ninadresing.github.io/publication/gomez-herrero-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Efficiency of particle acceleration at interplanetary shocks: Statistical study of STEREO observations</title>
       <link>http://ninadresing.github.io/publication/dresing-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
@@ -173,14 +157,6 @@
     </item>
     
     <item>
-      <title>Circumsolar energetic particle distribution on 2011 November 3</title>
-      <link>http://ninadresing.github.io/publication/gomez-herrero-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://ninadresing.github.io/publication/gomez-herrero-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>First simultaneous observations of a near-relativistic electron spike event by both STEREO spacecraft</title>
       <link>http://ninadresing.github.io/publication/klassen-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
@@ -189,26 +165,10 @@
     </item>
     
     <item>
-      <title>Galactic cosmic ray quiet time spectra from 300 MeV up to above 1 GeV measured with SOHO/EPHIN</title>
-      <link>http://ninadresing.github.io/publication/kuhl-2015-a/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://ninadresing.github.io/publication/kuhl-2015-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Proton energy spectra during ground level enhancements as measured by EPHIN aboard SOHO</title>
       <link>http://ninadresing.github.io/publication/heber-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>http://ninadresing.github.io/publication/heber-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proton intensity spectra during the solar energetic particle events of May 17, 2012 and January 6, 2014</title>
-      <link>http://ninadresing.github.io/publication/kuhl-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://ninadresing.github.io/publication/kuhl-2015/</guid>
       <description></description>
     </item>
     
@@ -261,14 +221,6 @@
     </item>
     
     <item>
-      <title>Spectrum of galactic and Jovian electrons</title>
-      <link>http://ninadresing.github.io/publication/kuhl-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://ninadresing.github.io/publication/kuhl-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The first ground level event of solar cycle 24 and its longitudinal distribution in the inner heliosphere</title>
       <link>http://ninadresing.github.io/publication/heber-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
@@ -301,34 +253,10 @@
     </item>
     
     <item>
-      <title>Spatial and temporal variations of CIRs: Multi-point observations by STEREO</title>
-      <link>http://ninadresing.github.io/publication/gomez-herrero-2011551/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://ninadresing.github.io/publication/gomez-herrero-2011551/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The August 18, 2010 solar energetic particle event - Multipoint observations and propagation modeling</title>
-      <link>http://ninadresing.github.io/publication/gomez-herrero-2011204/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://ninadresing.github.io/publication/gomez-herrero-2011204/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Three-dimensional anisotropic transport simulations: A parameter study for the interpretation of multi-spacecraft solar energetic particle observations</title>
       <link>http://ninadresing.github.io/publication/kartavykh-2011196/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>http://ninadresing.github.io/publication/kartavykh-2011196/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-point observations of CIR-associated energetic particles during the 2008 solar minimum</title>
-      <link>http://ninadresing.github.io/publication/gomez-herrero-2010608/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://ninadresing.github.io/publication/gomez-herrero-2010608/</guid>
       <description></description>
     </item>
     
